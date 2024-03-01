@@ -5,7 +5,7 @@ Gruppo di lavoro: Valia Karali, Elisabetta Raione, Francesco Mancuso
 Link alla visualizzazione: [https://gateway.francescomancuso.it/simulatore/]
 
 
-[![Anteprima Simulatore](/)](https://gateway.francescomancuso.it/simulatore/dashboard/)
+[![Anteprima Simulatore](https://raw.githubusercontent.com/FrancescooM/gateway-simulatore/main/anteprima_simulatore.png)](https://gateway.francescomancuso.it/simulatore/dashboard/)
 
 
 # Copyright
