@@ -23,8 +23,8 @@ Simulatore in PHP con funzioni di:
 - Gestione Account
 - Cambio password
 
-  Verranno implementate altre funzioni:
-  - Registrazione
-  - Modifica dei messaggi
+Verranno implementate altre funzioni:
+- Registrazione
+- Modifica dei messaggi
 
   
